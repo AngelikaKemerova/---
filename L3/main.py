@@ -1,6 +1,6 @@
-from lab_3.lab_python_oop.rectangle import Rectangle
-from lab_3.lab_python_oop.circle import Circle
-from lab_3.lab_python_oop.square import Square
+from L3.lab_python_oop.rectangle import Rectangle
+from L3.lab_python_oop.circle import Circle
+from L3.lab_python_oop.square import Square
 
 def main():
 	rect = Rectangle(3, 2, "'dark blue'")
