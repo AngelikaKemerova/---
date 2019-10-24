@@ -1,5 +1,5 @@
-from lab_3.lab_python_oop.geometric_figure import Geometric_figure
-from lab_3.lab_python_oop.color_figure import ColorFigure
+from L3.lab_python_oop.geometric_figure import Geometric_figure
+from L3.lab_python_oop.color_figure import ColorFigure
 
 # Класс «Прямоугольник» наследуется от класса «Геометрическая фигура»
 class Rectangle(Geometric_figure):
