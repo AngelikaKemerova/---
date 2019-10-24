@@ -1,5 +1,5 @@
-from lab_3.lab_python_oop.rectangle import Rectangle
-from lab_3.lab_python_oop.color_figure import ColorFigure
+from L3.lab_python_oop.rectangle import Rectangle
+from L3.lab_python_oop.color_figure import ColorFigure
 
 # Класс Квадрат
 class Square(Rectangle):
